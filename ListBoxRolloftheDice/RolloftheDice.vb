@@ -2,7 +2,7 @@
 'RCET0265
 'Fall24
 'Roll of the Dice List Box
-'linl
+'https://github.com/ju8t1n203/ListBocRolloftheDice
 Public Class RolloftheDice
     Private Sub ExitButton_Click(sender As Object, e As EventArgs) Handles ExitButton.Click
         Me.Close()
